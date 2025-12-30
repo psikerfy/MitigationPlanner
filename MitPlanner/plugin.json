@@ -4,7 +4,7 @@
     "Name": "Mitigation Planner",
     "Description": "Meant to import/create mit plans and showcase the cooldowns in real time",
     "InternalName": "MitPlanner",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/psikerfy/MitigationPlanner",
     "ApplicableVersion": "any",
@@ -12,9 +12,9 @@
     "Punchline": "I Kardia on my Phlegma till I Kerachole",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/psikerfy/MitigationPlanner/releases/download/test/latest.zip",
-    "DownloadLinkTesting": "https://github.com/psikerfy/MitigationPlanner/releases/download/test/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/psikerfy/MitigationPlanner/releases/download/test/latest.zip",
+    "DownloadLinkInstall": "https://github.com/psikerfy/MitigationPlanner/releases/download/test_2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/psikerfy/MitigationPlanner/releases/download/test_2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/psikerfy/MitigationPlanner/releases/download/test_2/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/psikerfy/MitigationPlanner/refs/heads/master/Data/neeko.png"
   }
 ]
